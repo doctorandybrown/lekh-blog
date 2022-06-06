@@ -6,7 +6,8 @@ draft: false
 Ea ad qui consequat veniam non commodo incididunt ea voluptate labore. Commodo sint occaecat in sint duis non culpa eu aute. Lorem nulla enim ex tempor nostrud esse ut minim veniam adipisicing ullamco adipisicing minim irure. Et proident tempor et eiusmod cillum anim est. Voluptate laboris ullamco duis ut dolore est. Excepteur veniam magna ad pariatur minim magna culpa aliquip qui occaecat irure.
 
 ``` javascript
-const car = {type:"Fiat", model:"500", color:"white"};
+
+    const car = {type:"Fiat", model:"500", color:"white"};
 
 ```
 Exercitation commodo irure et nulla proident. Ea deserunt elit consequat occaecat mollit nulla duis aliquip duis ipsum excepteur. Lorem consequat quis mollit cupidatat occaecat nostrud tempor. Est ea ad elit minim enim voluptate occaecat commodo reprehenderit ullamco ea. Irure ad sit eiusmod est nulla commodo id cillum.
